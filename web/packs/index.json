@@ -1,6 +1,6 @@
 {
   "packs": [
-    "fox-ask.json",
+    "fox-ask.json"
   ],
   "homeserver_url": "https://matrix.sphere.chat"
 }
