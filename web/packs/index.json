@@ -1,7 +1,5 @@
 {
   "packs": [
-    ".json",
-    "_.json",
     "Cat.json",
     "asmodeavk.json",
     "Bender.json",
