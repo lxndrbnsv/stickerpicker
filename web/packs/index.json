@@ -1,6 +1,37 @@
 {
   "packs": [
-    "fox-ask.json"
+    "fox-ask.json",
+    ".json",
+    "_.json",
+    "Cat.json",
+    "asmodeavk.json",
+    "Bender.json",
+    "Chris.json",
+    "Criminal_raccoon.json",
+    "demoness.json",
+    "devilanddemoness.json",
+    "elfdobby.json",
+    "flash_dog.json",
+    "mudrec_eezee.json",
+    "nypogodi_sh.json",
+    "metalfamilyheavy_vk.json",
+    "missdevil.json",
+    "penissmiley.json",
+    "whores_stickers.json",
+    "zastalinaspack.json",
+    "violet_angel.json",
+    "Go_robot.json",
+    "hacker_woman.json",
+    "lilithvk.json",
+    "SuperMEME.json",
+    "smesharikimat2020.json",
+    "radikvk.json",
+    "pixelmoji.json",
+    "solvevoprosiki_alexzhdanov.json",
+    "MEME.json",
+    "medalyam_stickers.json",
+    "tiki_broker.json",
+    "Raketa.json"
   ],
   "homeserver_url": "https://matrix.sphere.chat"
 }
