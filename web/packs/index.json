@@ -26,7 +26,8 @@
     "Robot.json",
     "ik_vk.json",
     "solvevoprosiki_alexzhdanov.json",
-    "SuperMEME.json"
+    "SuperMEME.json",
+    "junedev_vk.json"
   ],
   "homeserver_url": "https://matrix.sphere.chat/"
 }
