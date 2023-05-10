@@ -27,7 +27,8 @@
     "ik_vk.json",
     "solvevoprosiki_alexzhdanov.json",
     "SuperMEME.json",
-    "junedev_vk.json"
+    "junedev_vk.json",
+    "toad.json"
   ],
   "homeserver_url": "https://matrix.sphere.chat/"
 }
