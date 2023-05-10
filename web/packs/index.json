@@ -30,7 +30,8 @@
     "junedev_vk.json",
     "toad.json",
     "Text.json",
-    "zastalinaspack.json"
+    "zastalinaspack.json",
+    "archi_vk.json"
   ],
   "homeserver_url": "https://matrix.sphere.chat/"
 }
