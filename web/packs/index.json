@@ -24,7 +24,8 @@
     "hacker_woman.json",
     "ramzes_vk.json",
     "Robot.json",
-    "ik_vk.json"
+    "ik_vk.json",
+    "solvevoprosiki_alexzhdanov.json"
   ],
   "homeserver_url": "https://matrix.sphere.chat/"
 }
