@@ -31,7 +31,8 @@
     "toad.json",
     "Text.json",
     "zastalinaspack.json",
-    "archi_vk.json"
+    "archi_vk.json",
+    "lilithvk.json"
   ],
   "homeserver_url": "https://matrix.sphere.chat/"
 }
