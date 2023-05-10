@@ -19,7 +19,8 @@
     "flash_dog.json",
     "pixelmoji.json",
     "MEME.json",
-    "fruggs.json"
+    "fruggs.json",
+    "Rat.json"
   ],
   "homeserver_url": "https://matrix.sphere.chat/"
 }
