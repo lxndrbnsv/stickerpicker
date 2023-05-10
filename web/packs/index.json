@@ -29,8 +29,7 @@
     "SuperMEME.json",
     "junedev_vk.json",
     "toad.json",
-    "Text.json",
-    "ldr_robot.json"
-  ],
+    "Text.json"
+   ],
   "homeserver_url": "https://matrix.sphere.chat/"
 }
