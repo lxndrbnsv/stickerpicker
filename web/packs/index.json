@@ -2,7 +2,8 @@
   "packs": [
     "little_fox_ask.json",
     "raketa.json",
-    "Criminal_raccoon.json"
+    "Criminal_raccoon.json",
+    "Bender.json"
   ],
   "homeserver_url": "https://matrix.sphere.chat/"
 }
