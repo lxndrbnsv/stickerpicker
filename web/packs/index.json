@@ -20,7 +20,8 @@
     "pixelmoji.json",
     "MEME.json",
     "fruggs.json",
-    "Rat.json"
+    "Rat.json",
+    "hacker_woman.json"
   ],
   "homeserver_url": "https://matrix.sphere.chat/"
 }
