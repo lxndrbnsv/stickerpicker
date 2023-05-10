@@ -17,7 +17,8 @@
     "pikl_vk.json",
     "Go_robot.json",
     "flash_dog.json",
-    "pixelmoji.json"
+    "pixelmoji.json",
+    "MEME.json"
   ],
   "homeserver_url": "https://matrix.sphere.chat/"
 }
