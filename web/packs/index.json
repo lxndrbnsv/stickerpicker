@@ -16,7 +16,8 @@
     "elfdobby.json",
     "pikl_vk.json",
     "Go_robot.json",
-    "flash_dog.json"
+    "flash_dog.json",
+    "pixelmoji.json"
   ],
   "homeserver_url": "https://matrix.sphere.chat/"
 }
