@@ -22,7 +22,8 @@
     "fruggs.json",
     "Rat.json",
     "hacker_woman.json",
-    "ramzes_vk.json"
+    "ramzes_vk.json",
+    "Robot.json"
   ],
   "homeserver_url": "https://matrix.sphere.chat/"
 }
